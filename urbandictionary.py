@@ -1,5 +1,4 @@
 import requests
-import json
 
 # authorization headers, this is needed.
 headers = {"x-rapidapi-key": "9c26714456mshfb81216936fbc4fp1984b0jsn67f2db2d61b5", "x-rapidapi-host": "mashape-community-urban-dictionary.p.rapidapi.com"}
