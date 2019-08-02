@@ -1,7 +1,7 @@
 import requests
 
 # authorization headers, this is needed.
-headers = {"x-rapidapi-key": "9c26714456mshfb81216936fbc4fp1984b0jsn67f2db2d61b5", "x-rapidapi-host": "mashape-community-urban-dictionary.p.rapidapi.com"}
+headers = {"x-rapidapi-key": "{you need to get this from rapidapi which is free}", "x-rapidapi-host": "mashape-community-urban-dictionary.p.rapidapi.com"}
 
 word = input("Word: ") # taking input
 
